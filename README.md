@@ -1,5 +1,5 @@
-<h3 align="center">Estudante de ADS e JavaScript.</h3>
-
+<h3 align="center"> Estudante de Análise & Desenvolvimento de Sistemas e Desenvolvimento Front-end | Computer Science and Front-end Development student.</h3>
+<h4 align="center">私の小さなスペースへようこそ</h4>
 <p align="right"> <img src="https://64.media.tumblr.com/3e8e9b4a2e9500071fe63f009f2f58ff/tumblr_pk7k94OURe1wk8xj3o1_1280.jpg"/> </p> 
 
 <h3 align="left">Connect with me:</h3>
