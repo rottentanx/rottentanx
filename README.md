@@ -3,10 +3,6 @@
 <h1>Hello. 👋🏻</h1>
 <h3>I am a Software Engineer from Brazil.</h3>
 
-
-
-- 💻 Currently learning JavaScript and Python.
-
 - 📬  If you ever need to contact me, you can reach out through this <a href = "mailto:igorgabrielcardosodejesus@gmail.com">e-mail.
 
 <h3 align="left">Tools:</h3>
